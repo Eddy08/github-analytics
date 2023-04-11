@@ -4,4 +4,4 @@
 
 ### Make a Microservice
 
-### Run a cron job to take backup to multi cloud storages once a day
+### Run a cron job (Spring batch) to take backup to multi cloud storages once a day
