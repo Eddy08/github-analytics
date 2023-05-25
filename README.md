@@ -1,14 +1,17 @@
 ### Make a Graphql Endpoint to see the result from github api graphql ( Use Spring Graphql )
+
 ## when a user opens the application and migrate to the site the application should give :
+
 1. Unified Search bar to see and search anything.
 2. Dashboard based on various customizations.
-
 
 ### Make a GraphQL Subscription Endpoint to see the results in the real time ( Neo4j + Spring Graphql)
 
 ### Make a Microservice
 
 ### Run a cron job (Spring batch) to take backup to multi cloud storages once a day
+
+### Add a responsive UI with different dashboards for easy and fast edit / search inside the whole repository or current user repo
 
 ### Buy a domain and start working on it !!
 
