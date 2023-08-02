@@ -24,3 +24,5 @@ docker run --hostname=d86982a9aa26 --mac-address=02:42:ac:11:00:02 --env=NEO4J_A
 3. Optional Ad button to support us.
 4. Like Project , dislike or Love the project. (Bar visualisation)
 5. Ability to Search Repository wise or multiple repository wise for a single user or multiple users
+6. Make UI Dashboard with good Visuals
+7. Fully Reactive Applications.
