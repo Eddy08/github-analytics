@@ -23,7 +23,11 @@
 
 - [ ] Run a cron job (Spring batch) to take backup to multi cloud storages once a day
 
-### Buy a domain and start working on it !!
+<del>
+  <h2>
+    Buy a domain and start working on it !!
+  </h2> 
+</del>
 
 ### Docker commands to run neo4j in background
 
