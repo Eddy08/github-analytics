@@ -7,7 +7,7 @@
 5. Ability to Search Repository wise or multiple repository wise for a single user or multiple users
 6. Make UI Dashboard with good Visuals
 7. Fully Reactive Applications.
-
+8. 1min contribution in any repository of the github.
 ## Work Items:
 
 - [ ] Make a Graphql Endpoint to see the result from github api graphql ( Use Spring Graphql )
