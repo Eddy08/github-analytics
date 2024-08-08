@@ -1,6 +1,6 @@
 ## Features
 
-1. Users can see the custom view of their code and contributions.
+1. Users can see the custom view of their code and contributions across all the repositories.
 2. Adjustable Dashboard.
 3. Optional Ad button to support us.
 4. Like Project , dislike or Love the project. (Bar visualisation)
