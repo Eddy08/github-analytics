@@ -1,13 +1,15 @@
 ## Features
 
 1. Users can see the custom view of their code and contributions across all the repositories.
-2. Adjustable Dashboard.
-3. Optional Ad button to support us.
-4. Like Project , dislike or Love the project. (Bar visualisation)
-5. Ability to Search Repository wise or multiple repository wise for a single user or multiple users
-6. Make UI Dashboard with good Visuals
-7. Fully Reactive Applications.
-8. 1min contribution in any repository of the github.
+2. Try to run the extractoin of related packages etc. in backend.
+3. Store the results so that it can be visualized.
+4. Adjustable Dashboard.
+5. Optional Ad button to support us.
+6. Like Project , dislike or Love the project. (Bar visualisation)
+7. Ability to Search Repository wise or multiple repository wise for a single user or multiple users
+8. Make UI Dashboard with good Visuals
+9. Fully Reactive Applications.
+10. 1min contribution in any repository of the github.
 ## Work Items:
 
 - [ ] Make a Graphql Endpoint to see the result from github api graphql ( Use Spring Graphql )
