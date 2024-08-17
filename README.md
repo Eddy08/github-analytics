@@ -10,6 +10,7 @@
 8. Make UI Dashboard with good Visuals
 9. Fully Reactive Applications.
 10. 1min contribution in any repository of the github.
+11. Ability to engage viewer with realtime chat.
 ## Work Items:
 
 - [ ] Make a Graphql Endpoint to see the result from github api graphql ( Use Spring Graphql )
