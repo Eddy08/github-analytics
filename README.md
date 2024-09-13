@@ -6,7 +6,7 @@
 4. Adjustable Dashboard.
 5. Optional Ad button to support us.
 6. Like Project , dislike or Love the project. (Bar visualisation)
-7. Ability to Search Repository wise or multiple repository wise for a single user or multiple users
+7. Ability to Search Repository wise or multiple repository wise for a single user or multiple users, user can literally search anything.( similar to elastic search)
 8. Make UI Dashboard with good Visuals
 9. Fully Reactive Applications.
 10. 1min contribution in any repository of the github.
