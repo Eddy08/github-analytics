@@ -13,6 +13,7 @@
 11. Ability to engage viewer with realtime chat.
 12. DevOps automattic code scanning and updating.
 13. Working Asynchronously and handling of large requests.
+14. AI enabled commit analysis in batch
 ## Work Items:
 
 - [ ] Make a Graphql Endpoint to see the result from github api graphql ( Use Spring Graphql )
